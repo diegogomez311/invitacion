@@ -1,0 +1,17 @@
+*{ 
+    margin: 0;
+    padding: 0;    
+}
+
+
+#tarjeta{
+    background-color: #8fd3f6;
+}
+
+#mapa{
+    background-color: white;
+}
+
+#lugar{
+    background-color:rgb(31, 31, 31);
+}
